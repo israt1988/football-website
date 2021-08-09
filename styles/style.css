@@ -4,11 +4,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-  /* main{
+   main{
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     flex-direction: column;
-}  */
+} 
 .players{
 display: grid;
 grid-template-columns: repeat(3, 1fr);
